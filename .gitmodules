@@ -1,0 +1,6 @@
+[submodule "Aadhar-Client"]
+	path = Aadhar-Client
+	url = https://github.com/GRajin/Aadhar-Client.git
+[submodule "Aadhar-Verifier"]
+	path = Aadhar-Verifier
+	url = https://github.com/GRajin/Aadhar-Verifier.git
